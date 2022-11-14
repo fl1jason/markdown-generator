@@ -1,0 +1,24 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "markdown": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fl1jason/markdown-generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/fl1jason/markdown-generator/issues"
+  },
+  "homepage": "https://github.com/fl1jason/markdown-generator#readme"
+}
